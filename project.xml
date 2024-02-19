@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="SimpleImageRendering" package="com.sample.simpleimagerendering" version="1.0.0" company="what-is-a-git" />
+	<app main="Main" path="export" file="SimpleImageRendering" />
+
+	<window width="1280" height="720" fps="1000" background="#000000" hardware="true" vsync="false" />
+	
+	<source path="src" />
+	
+	<haxelib name="lime" />
+	
+	<assets path="assets" />
+	
+</project>
